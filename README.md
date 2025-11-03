@@ -376,6 +376,7 @@ Created with ❤️ by **Sai Aravind**
 
 - GitHub: [@saiAravind-1104](https://github.com/saiAravind-1104)
 - Project: [AI-Search-Engine](https://github.com/saiAravind-1104/AI-Search-Engine)
+- LinkedIn: [Sai Aravind Koduru](https://www.linkedin.com/in/sai-aravind-koduru-a704a5222)
 
 ---
 
